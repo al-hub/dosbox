@@ -5,6 +5,7 @@ https://www.dosbox.com/download.php?main=1
 
 ## web (samples)  
 https://archive.org/details/htt_keyboard_typing_trainner_korean  
+http://blog.archive.org/2015/05/08/making-your-dos-programs-live-again-at-the-internet-archive/  
 
 ## ref (program)  
 https://oldpc.tistory.com/143  
