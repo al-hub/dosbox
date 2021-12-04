@@ -22,3 +22,4 @@ https://archive.org/details/httd_preservation
 
 ## ref (program)  
 https://oldpc.tistory.com/143  
+https://blog.naver.com/vio08/221394710505  
