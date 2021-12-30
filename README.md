@@ -19,6 +19,9 @@ export
 https://archive.org/details/htt305_20211230_1422  
 https://archive.org/details/httd_preservation  
 
+<iframe src="https://archive.org/embed/htt305_20211230_1422" width="640" height="480" frameborder="0" ></iframe>  
+
+<iframe src="https://archive.org/embed/httd_preservation" width="640" height="480" frameborder="0" ></iframe>  
 
 ## ref (program)  
 https://oldpc.tistory.com/143  
